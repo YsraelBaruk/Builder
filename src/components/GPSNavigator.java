@@ -1,3 +1,5 @@
+package components;
+
 public class GPSNavigator {
     private String route;
 

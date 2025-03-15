@@ -1,3 +1,12 @@
+package builders;
+
+import cars.CarType;
+import cars.Manual;
+import components.Engine;
+import components.GPSNavigator;
+import components.Transmission;
+import components.TripComputer;
+
 public class CarManualBuilder implements Builder{
     private CarType type;
     private int seats;

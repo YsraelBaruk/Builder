@@ -1,3 +1,10 @@
+package cars;
+
+import components.Engine;
+import components.GPSNavigator;
+import components.Transmission;
+import components.TripComputer;
+
 public class Manual {
     private final CarType carType;
     private final int seats;

@@ -1,3 +1,7 @@
+package components;
+
+import cars.Car;
+
 public class TripComputer {
 
     private Car car;

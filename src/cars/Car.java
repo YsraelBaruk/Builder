@@ -15,7 +15,7 @@ public class Car {
     private double fuel = 0;
 
     public Car(CarType carType, int seats, Engine engine, Transmission transmission,
-               TripComputer tripComputer, GPSNavigator gpsNavigator) {
+            TripComputer tripComputer, GPSNavigator gpsNavigator) {
         this.carType = carType;
         this.seats = seats;
         this.engine = engine;
